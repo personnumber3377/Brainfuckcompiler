@@ -6,4 +6,8 @@ I have tested it with the gameoflife.bf program. All other characters other than
 
 There are probably bugs in it, so feel free to file an issue.
 
+To use just type python3 main.py gameoflife.bf
+
+Then to run the binary just run ./binary
+
 
